@@ -24,3 +24,13 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
+In meadows kissed by golden light,  
+Where whispers dance in soft delight,  
+Butterflies flit, their colors bright,  
+In wings that flutter, taking flight.  
+
+They dance upon the zephyr's sigh,  
+Through azure realms, they gracefully fly,  
+Each fluttering beat, a gentle cry,  
+Of souls reborn, reaching for the sky.   
